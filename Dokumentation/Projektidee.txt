@@ -1,0 +1,14 @@
+Meine Projektidee
+
+Bei meiner Projektidee handelt es sich um ein Spiel. 
+Durch einen Linksklick der Maus kann der Nutzer eine Spielfigur zum springen bringen.
+Damit soll man über Löcher im Boden springen.
+Der Boden wird ab und zu von jenen unterbrochen.
+Die Löcher wären in zwei verschiedenen Größen vorhanden. 
+Einmal genauso breit wie die Figur und doppelt so breit.
+Der Nutzer hätte zum springen zwei Optionen. 
+Das einmalige klicken ermöglicht einen einfachen Sprung. Das doppelte klicken einen doppelten Sprung. 
+Der einfache reicht für die kleinen Löcher. Der doppelte für die größeren.
+Der Nutzer startet die Figur am linken Spielfeldrand. Die Figur springt nur und bewegt sich nicht andersweitig.
+Der Boden bewegt sich von rechts nach links. Somit auch die verschiedenen Löcher.
+Das Spiel ist beendet wenn die Figur in ein Loch fällt.
