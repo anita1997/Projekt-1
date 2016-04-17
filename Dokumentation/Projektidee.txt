@@ -15,6 +15,15 @@ Der Nutzer startet die Figur am linken Spielfeldrand. Die Figur springt nur und 
 Der Boden bewegt sich von rechts nach links. Somit auch die verschiedenen Löcher.
 Das Spiel ist beendet wenn die Figur in ein Loch fällt.
 
+
+=== Projektidee nach Feedback bearbeitet ===
+
+Bei meiner Projektidee handelt es sich um ein Spiel. 
+Dem Nutzer ist es möglich eine Spielfigur zum springen zu bringen
+Der Nutzer hätte zum springen zwei Optionen.
+Die zwei Optionen unterscheiden sich durch die Länge der Sprünge.
+
+
 === Feedback Alpers, 2016-04-14 ===
 
 > Durch einen Linksklick der Maus kann der Nutzer eine Spielfigur zum springen bringen.
