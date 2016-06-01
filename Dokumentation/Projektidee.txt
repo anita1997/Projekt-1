@@ -31,7 +31,7 @@ Bei meiner Projektidee handelt es sich um ein Spiel.
 Dem Nutzer ist es möglich eine Spielfigur zum springen zu bringen
 Der Nutzer hätte zum springen zwei Optionen.
 Die zwei Optionen unterscheiden sich durch die Länge der Sprünge.
-Ausserdem soll der Name, den der Nutzer zu beginn des Spiels eingibt, und die erzielten Punktzahlen gespeichert werden. 
+Ausserdem soll der Name, den der Nutzer zu Beginn des Spiels eingibt, und die erzielten Punktzahlen gespeichert werden. 
 Dadurch kann das Spiel anhand des Namens erkennen welche Puktzahlen der Spieler in vorherigen Spielen erreicht hat.
 Anhand eines Durchschnittswertes der vorher erzielten Punktzahlen soll sich das Spiel dem Können des Spielers anpassen.
 Das heist wenn ein Spieler spielt welcher vorher hohe Punktzahlen erreicht hat spielt wird das Spiel für ihn schwerer indem es
