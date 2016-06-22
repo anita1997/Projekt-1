@@ -1,4 +1,44 @@
 =========================================
+=== Projektidee anita1997, 2016-06-01 ===
+=========================================
+
+Bei meiner Projektidee handelt es sich um ein Spiel. 
+Dem Nutzer ist es möglich eine Spielfigur zum springen zu bringen
+Der Nutzer hätte zum springen zwei Optionen.
+Die zwei Optionen unterscheiden sich durch die Länge der Sprünge.
+
+Ausserdem soll der Name, den der Nutzer zu Beginn des Spiels eingibt, und die erzielten Punktzahlen gespeichert werden. 
+
+Dadurch kann das Spiel anhand des Namens erkennen welche Puktzahlen der Spieler in vorherigen Spielen erreicht hat.
+Anhand eines Durchschnittswertes der vorher erzielten Punktzahlen soll sich das Spiel dem Können des Spielers anpassen.
+Das heist wenn ein Spieler spielt welcher vorher hohe Punktzahlen erreicht hat spielt wird das Spiel für ihn schwerer indem es
+z.B schneller läuft sodass der Spieler schneller reagieren muss. 
+Da es dabei von einem Durchschnittswert abhängig ist, kann es auch nach wiederholten schlechteren Leistungen wieder langsamer also leichter werden.
+
+Ähnliches kann mit der Anzahl der Löcher geschehen, je besser der Spieler desdo frequenter sind die Löcher. 
+Diese sollten dann auch in einer anspruchsvolleren Reihenfolge vorkommen.
+
+Dazu sollte es dem Spieler während des Spiels möglich sein eine Spiel-Währung aufzusammeln, mit welcher er dann Modifikationen
+für seine Figur erwerben könnte. 
+
+Wenn das Spiel vernetzt ist soll ein Modus verfügbar sein, welcher dem Spieler ermöglicht gegen andere Spieler zu spielen.
+
+In diesem Duell-artigen Modus würden dann zwei oder mehrere Spieler gleichzeitig das selbe Level durchlaufen,
+derjenige der am längsten durchhält ohne das Spiel zu verlieren hat gewonnen. Der Gewinner würde dann kleinere Belohnungen bekommen,
+wie z.B modifikationen für seine Spielfigur.
+
+Zusätzlich sollte es einen Turnier-Modus geben, bei welchem der Spieler gegen andere Spieler antritt. 
+Um dem Turnier beizutreten soll der Spieler eine bestimmte Anzahl der Spiel-Währung setzen müssen.
+Bei dem Turnier würde nach dem KO Prinzip jede Runde (es gäbe drei Runden: Viertelfinale, Halbfinale und Finale) 
+ein Spieler eliminiert werden. 
+
+Der Gewinn des Spielers würde von seiner Leistung abhängen, so würde ein ausscheiden
+in Viertelfinale nichts einbringen sondern nur einen Verlust des gesetzten Einsatzes bringen.
+Das erreichen des Halbfinales würde einen kleinen Trostpreis, das ausscheiden im
+Finale würde einen etwas besseren Preis geben und der Gewinn des Turniers würde einen großen Preis bringen.
+Dieser sollte zusammengesetzt aus den verschiedenen Einsätzen der Spieler bestehen.
+
+=========================================
 === Projektidee anita1997, 2016-04-05 ===
 =========================================
 
@@ -24,36 +64,6 @@ Bei meiner Projektidee handelt es sich um ein Spiel.
 Dem Nutzer ist es möglich eine Spielfigur zum springen zu bringen
 Der Nutzer hätte zum springen zwei Optionen.
 Die zwei Optionen unterscheiden sich durch die Länge der Sprünge.
-
-=== Projektidee nach Aufgaben erweitert ===
-
-Bei meiner Projektidee handelt es sich um ein Spiel. 
-Dem Nutzer ist es möglich eine Spielfigur zum springen zu bringen
-Der Nutzer hätte zum springen zwei Optionen.
-Die zwei Optionen unterscheiden sich durch die Länge der Sprünge.
-Ausserdem soll der Name, den der Nutzer zu Beginn des Spiels eingibt, und die erzielten Punktzahlen gespeichert werden. 
-Dadurch kann das Spiel anhand des Namens erkennen welche Puktzahlen der Spieler in vorherigen Spielen erreicht hat.
-Anhand eines Durchschnittswertes der vorher erzielten Punktzahlen soll sich das Spiel dem Können des Spielers anpassen.
-Das heist wenn ein Spieler spielt welcher vorher hohe Punktzahlen erreicht hat spielt wird das Spiel für ihn schwerer indem es
-z.B schneller läuft sodass der Spieler schneller reagieren muss. Da es dabei von einem Durchschnittswert abhängig ist
-kann es auch nach wiederholten schlechteren Leistungen wieder langsamer also leichter werden.
-Ähnliches kann mit der Anzahl der Löcher geschehen, je besser der Spieler desdo frequenter sind die Löcher. 
-Diese sollten dann auch in einer anspruchsvolleren Reihenfolge vorkommen.
-Dazu sollte es dem Spieler während des Spiels möglich sein eine Spiel-Währung aufzusammeln, mit welcher er dann Modifikationen
-für seine Figur erwerben könnte. 
-Wenn das Spiel vernetzt ist soll ein Modus verfügbar sein, welcher dem Spieler ermöglicht gegen andere Spieler zu spielen.
-In diesem Duell-artigen Modus würden dann zwei oder mehrere Spieler gleichzeitig das selbe Level durchlaufen,
-derjenige der am längsten durchhält ohne das Spiel zu verlieren hat gewonnen. Der Gewinner würde dann kleinere Belohnungen bekommen,
-wie z.B modifikationen für seine Spielfigur.
-Zusätzlich sollte es einen Turnier-Modus geben, bei welchem der Spieler gegen andere Spieler antritt. 
-Um dem Turnier beizutreten soll der Spieler eine bestimmte Anzahl der Spiel-Währung setzen müssen.
-Bei dem Turnier würde nach dem KO Prinzip jede Runde (es gäbe drei Runden: Viertelfinale, Halbfinale und Finale) 
-ein Spieler eliminiert werden. Der Gewinn des Spielers würde von seiner Leistung abhängen, so würde ein ausscheiden
-in Viertelfinale nichts einbringen sondern nur einen Verlust des gesetzten Einsatzes bringen.
-Das erreichen des Halbfinales würde einen kleinen Trostpreis, das ausscheiden im
-Finale würde einen etwas besseren Preis geben und der Gewinn des Turniers würde einen großen Preis bringen.
-Dieser sollte zusammengesetzt aus den verschiedenen Einsätzen der Spieler bestehen.
-
 
 ===================================
 === Feedback Alpers, 2016-04-14 ===
@@ -103,4 +113,17 @@ Wertung 2: Projektbeschreibung: gesamt: 4 / 10
 - Werbeslogans u.ä.: 0 
 - Designaspekte: 0 
 - Voraussetzung bekannten Wissens: 0 
+(Bitte beachten Sie, dass das die Wertung zum aktuellen Zeitpunkt und keine abschließende Wertung Ihrer Beschreibung ist.)
+
+===================================
+=== Feedback Alpers, 2016-06-22 ===
+===================================
+
+Wenn Sie in die Beschreibung ändern, dann notieren Sie bitte ein Datum dazu, damit erkennbar ist, wann Sie was an der Projektplanung geändert haben. In professionellen Projekten werden dafür Tools genutzt, die automatisch einen Zeitstempel vornehmen, hier müssen wir uns mit einfachen Mitteln behelfen.
+
+Ansonsten haben Sie die Beschreibung sehr gut erweitert. Es gibt zwar noch einzelne Details, an denen Sie feilen könnten, aber ich denke, dass die Ihnen im Laufe der weiteren Bearbeitung auffallen werden. Da einige Ihrer Kommilitonen diesen Punkt missverstanden haben, hier ein entsprechender Hinweis: Sie sollen tatsächlich auch zu späteren Zeitpunkten immer wieder an der Beschreibung arbeiten, damit die Beschreibung bis zum Schluss dem Projekt entspricht. Häufig stellt sich erst während der Entwicklung heraus, dass einzelne Punkte einer Projektplanung nicht oder nur in anderer Form umsetzbar sind. Und das sollte dann auch in die Planungsunterlagen aufgenommen werden.
+
+Schade, dass Sie sich noch nicht an die strukturellen Elemente gesetzt haben.
+
+Wertung 2: Projektbeschreibung: gesamt: 10 / 10
 (Bitte beachten Sie, dass das die Wertung zum aktuellen Zeitpunkt und keine abschließende Wertung Ihrer Beschreibung ist.)
